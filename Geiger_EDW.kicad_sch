@@ -3637,7 +3637,7 @@
     (property "Reference" "R11" (at 219.71 29.21 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10k" (at 219.71 31.75 0)
+    (property "Value" "1k" (at 219.71 31.75 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (at 215.392 30.48 90)
