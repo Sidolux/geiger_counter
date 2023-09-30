@@ -552,6 +552,10 @@
     [
       "3b22128b-b553-4988-96f2-c5a274af9a0d",
       ""
+    ],
+    [
+      "c4286dcc-ecc2-4be7-a89d-80887accf133",
+      "MCU_display"
     ]
   ],
   "text_variables": {}

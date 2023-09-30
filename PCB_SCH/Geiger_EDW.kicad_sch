@@ -3871,6 +3871,23 @@
     )
   )
 
+  (sheet (at 300.99 0) (size 368.3 209.55) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid c4286dcc-ecc2-4be7-a89d-80887accf133)
+    (property "Sheetname" "MCU_display" (at 300.99 -0.7116 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "mcu_display.kicad_sch" (at 300.99 210.1346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Geiger_EDW"
+        (path "/3b22128b-b553-4988-96f2-c5a274af9a0d" (page "2"))
+      )
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
   )
