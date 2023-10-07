@@ -106,9 +106,9 @@
     )
     (fp_rect (start 3.175 -6.35) (end 98.425 6.35)
       (stroke (width 0.1) (type default)) (fill none) (layer "F.SilkS") (tstamp d28e8fa4-534d-4a8c-a7cc-b7cb2bfbbcb6))
-    (pad "1" thru_hole roundrect (at 0 0 180) (size 8 7) (drill 0.762 (offset -1 0)) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.25)
+    (pad "1" thru_hole roundrect (at 0 0 180) (size 8 7) (drill 1.6 (offset -1 0)) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.25)
       (net 11 "/HV") (pinfunction "Pin_1") (pintype "passive") (tstamp 35cc0775-aa80-4477-8901-cba779f2db21))
-    (pad "2" thru_hole roundrect (at 101.6 0 180) (size 8 7) (drill 0.762 (offset 1 0)) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.25)
+    (pad "2" thru_hole roundrect (at 101.6 0 180) (size 8 7) (drill 1.6 (offset 1 0)) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.25)
       (net 23 "/HV2") (pinfunction "Pin_2") (pintype "passive") (tstamp 231bce27-01f7-4dc0-a528-ba49c699c2f8))
   )
 
