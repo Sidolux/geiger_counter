@@ -7,4 +7,5 @@ PCB_SCH - KiCad project
 
 source - uC firmware (in future)
 
-Some changes
+Some changesi
+
