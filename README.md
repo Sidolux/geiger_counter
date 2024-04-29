@@ -10,5 +10,3 @@ source - uC firmware (in future)
 Some changes
 
 GPG
-
-Testing
